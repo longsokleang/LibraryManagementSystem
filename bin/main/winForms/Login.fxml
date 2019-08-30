@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane prefHeight="720.0" prefWidth="720.0" styleClass="login" stylesheets="@GlobalStyle.css">
+         <children>
+            <Pane layoutX="223.0" layoutY="89.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-image: url('librarybackground-01.png');" styleClass="login" stylesheets="@GlobalStyle.css" />
+         </children></AnchorPane>
+   </children>
+</AnchorPane>
